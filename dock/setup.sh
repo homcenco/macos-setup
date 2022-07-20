@@ -4,7 +4,7 @@ set -u
 # Settings variables
 # APPS array by its name (ex: "App Store".app)
 APPS=("Launchpad"
-      "Google Chrome" "Safari"
+      "Google Chrome" "Tor Browser" "Safari"
       "Mail" "Telegram" "WhatsApp"
       "Authy Desktop" "Folx"
       "ColorSnapper2" "Figma" "Postman" "Affinity Designer"

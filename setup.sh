@@ -76,7 +76,7 @@ function setup_brew() {
 function setup_brew_apps() {
   step "Setting brew applications!" "${1}" "${2}"
   # Browser apps
-  brew install --cask google-chrome
+  brew install --cask google-chrome tor-browser
   open -a "Google Chrome"
   # Navigation apps
   brew install --cask transmit folx
